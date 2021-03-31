@@ -1,0 +1,758 @@
+29.03.2021 10:41:19 AM : Importing all existing motec data.
+29.03.2021 10:41:19 AM : Read 0 motec files.
+29.03.2021 10:41:19 AM : Fetched 0 records.
+29.03.2021 10:41:19 AM : Inserted 0 new records.
+29.03.2021 10:41:19 AM : Listening on 0.0.0.0:1337..
+29.03.2021 10:41:44 AM : {'filename': '/uploads/sOnHYtpaTY.zip'}
+29.03.2021 10:41:44 AM : Processing /uploads/sOnHYtpaTY.zip
+29.03.2021 10:42:03 AM : Importing all existing motec data.
+29.03.2021 10:42:03 AM : Read 4 motec files.
+29.03.2021 10:42:03 AM : Fetched 0 records.
+29.03.2021 10:42:03 AM : Inserted 4 new records.
+29.03.2021 10:42:03 AM : 200 POST /process_zip (172.20.0.5) 18700.65ms
+29.03.2021 10:43:42 AM : {'filename': '/uploads/nDXkOXUkdH.zip'}
+29.03.2021 10:43:42 AM : Processing /uploads/nDXkOXUkdH.zip
+29.03.2021 10:48:07 AM : 200 POST /process_zip (172.20.0.5) 264476.57ms
+29.03.2021 10:49:54 AM : Importing all existing motec data.
+29.03.2021 10:49:54 AM : Read 48 motec files.
+29.03.2021 10:49:54 AM : Fetched 4 records.
+29.03.2021 10:49:54 AM : Inserted 44 new records.
+29.03.2021 10:49:54 AM : Listening on 0.0.0.0:1337..
+29.03.2021 10:57:08 AM : {'filename': '/uploads/NqtJjQ3ib4.zip'}
+29.03.2021 10:57:08 AM : Processing /uploads/NqtJjQ3ib4.zip
+29.03.2021 11:01:52 AM : 200 POST /process_zip (172.21.0.5) 284080.06ms
+29.03.2021 11:03:16 AM : {'filename': '/uploads/BK1InjhDJk.zip'}
+29.03.2021 11:03:16 AM : Processing /uploads/BK1InjhDJk.zip
+29.03.2021 11:03:35 AM : Importing all existing motec data.
+29.03.2021 11:03:35 AM : Read 48 motec files.
+29.03.2021 11:03:35 AM : Fetched 0 records.
+29.03.2021 11:03:36 AM : Inserted 48 new records.
+29.03.2021 11:03:36 AM : 200 POST /process_zip (172.21.0.5) 19100.60ms
+29.03.2021 11:07:45 AM : {'filename': '/uploads/o8BI2okNBa.zip'}
+29.03.2021 11:07:45 AM : Processing /uploads/o8BI2okNBa.zip
+29.03.2021 11:07:46 AM : Importing all existing motec data.
+29.03.2021 11:07:47 AM : Read 48 motec files.
+29.03.2021 11:07:47 AM : Fetched 48 records.
+29.03.2021 11:07:47 AM : Inserted 0 new records.
+29.03.2021 11:07:47 AM : 200 POST /process_zip (172.21.0.5) 1530.07ms
+29.03.2021 11:09:57 AM : Importing all existing motec data.
+29.03.2021 11:09:57 AM : Read 48 motec files.
+29.03.2021 11:09:57 AM : Fetched 48 records.
+29.03.2021 11:09:57 AM : Inserted 0 new records.
+29.03.2021 11:09:57 AM : Listening on 0.0.0.0:1337..
+29.03.2021 11:11:42 AM : Importing all existing motec data.
+29.03.2021 11:11:42 AM : Read 48 motec files.
+29.03.2021 11:11:42 AM : Fetched 48 records.
+29.03.2021 11:11:42 AM : Inserted 0 new records.
+29.03.2021 11:11:42 AM : Listening on 0.0.0.0:1337..
+29.03.2021 11:12:57 AM : Importing all existing motec data.
+29.03.2021 11:12:57 AM : Read 48 motec files.
+29.03.2021 11:12:57 AM : Fetched 48 records.
+29.03.2021 11:12:57 AM : Inserted 0 new records.
+29.03.2021 11:12:57 AM : Listening on 0.0.0.0:1337..
+29.03.2021 12:29:03 PM : {'filename': '/uploads/pwWCFq7XnI.zip'}
+29.03.2021 12:29:03 PM : Processing /uploads/pwWCFq7XnI.zip
+29.03.2021 12:30:55 PM : Importing all existing motec data.
+29.03.2021 12:30:57 PM : Read 48 motec files.
+29.03.2021 12:30:57 PM : Fetched 48 records.
+29.03.2021 12:30:57 PM : Inserted 0 new records.
+29.03.2021 12:30:57 PM : 200 POST /process_zip (172.22.0.4) 114063.02ms
+29.03.2021 01:04:34 PM : Importing all existing motec data.
+29.03.2021 01:04:34 PM : Read 0 motec files.
+29.03.2021 01:04:34 PM : Fetched 0 records.
+29.03.2021 01:04:34 PM : Inserted 0 new records.
+29.03.2021 01:04:34 PM : Listening on 0.0.0.0:1337..
+29.03.2021 01:04:56 PM : {'filename': '/uploads/M2P0ulYuGM.zip'}
+29.03.2021 01:04:56 PM : Processing /uploads/M2P0ulYuGM.zip
+29.03.2021 01:06:53 PM : Importing all existing motec data.
+29.03.2021 01:06:53 PM : Read 4 motec files.
+29.03.2021 01:06:53 PM : Fetched 0 records.
+29.03.2021 01:06:53 PM : Inserted 4 new records.
+29.03.2021 01:06:53 PM : 200 POST /process_zip (172.23.0.4) 117249.84ms
+29.03.2021 02:26:04 PM : {'filename': '/uploads/b242FYdkee.zip'}
+29.03.2021 02:26:04 PM : Processing /uploads/b242FYdkee.zip
+29.03.2021 02:26:23 PM : Importing all existing motec data.
+29.03.2021 02:26:23 PM : Read 4 motec files.
+29.03.2021 02:26:23 PM : Fetched 4 records.
+29.03.2021 02:26:23 PM : Inserted 0 new records.
+29.03.2021 02:26:23 PM : 200 POST /process_zip (172.23.0.4) 18363.11ms
+29.03.2021 02:26:51 PM : {'filename': '/uploads/IZdzplCprW.zip'}
+29.03.2021 02:26:51 PM : Processing /uploads/IZdzplCprW.zip
+29.03.2021 02:27:16 PM : Importing all existing motec data.
+29.03.2021 02:27:16 PM : Read 4 motec files.
+29.03.2021 02:27:16 PM : Fetched 4 records.
+29.03.2021 02:27:16 PM : Inserted 0 new records.
+29.03.2021 02:27:16 PM : 200 POST /process_zip (172.23.0.4) 24972.55ms
+29.03.2021 02:27:31 PM : {'filename': '/uploads/pllwJShH5h.zip'}
+29.03.2021 02:27:31 PM : Processing /uploads/pllwJShH5h.zip
+29.03.2021 02:27:57 PM : Importing all existing motec data.
+29.03.2021 02:27:57 PM : Read 4 motec files.
+29.03.2021 02:27:57 PM : Fetched 4 records.
+29.03.2021 02:27:57 PM : Inserted 0 new records.
+29.03.2021 02:27:57 PM : 200 POST /process_zip (172.23.0.4) 26513.57ms
+29.03.2021 02:52:44 PM : {'filename': '/uploads/RUdXgScOoP.zip'}
+29.03.2021 02:52:44 PM : Processing /uploads/RUdXgScOoP.zip
+29.03.2021 02:53:08 PM : Importing all existing motec data.
+29.03.2021 02:53:08 PM : Read 4 motec files.
+29.03.2021 02:53:08 PM : Fetched 4 records.
+29.03.2021 02:53:08 PM : Inserted 0 new records.
+29.03.2021 02:53:08 PM : 200 POST /process_zip (172.23.0.4) 23837.70ms
+29.03.2021 02:56:43 PM : {'filename': '/uploads/yPuv2H1deA.zip'}
+29.03.2021 02:56:43 PM : Processing /uploads/yPuv2H1deA.zip
+29.03.2021 02:57:10 PM : Importing all existing motec data.
+29.03.2021 02:57:10 PM : Read 4 motec files.
+29.03.2021 02:57:10 PM : Fetched 4 records.
+29.03.2021 02:57:10 PM : Inserted 0 new records.
+29.03.2021 02:57:10 PM : 200 POST /process_zip (172.23.0.4) 27084.42ms
+29.03.2021 02:57:59 PM : {'filename': '/uploads/UOPjHApoXZ.zip'}
+29.03.2021 02:57:59 PM : Processing /uploads/UOPjHApoXZ.zip
+29.03.2021 02:58:20 PM : Importing all existing motec data.
+29.03.2021 02:58:20 PM : Read 4 motec files.
+29.03.2021 02:58:20 PM : Fetched 4 records.
+29.03.2021 02:58:20 PM : Inserted 0 new records.
+29.03.2021 02:58:20 PM : 200 POST /process_zip (172.23.0.4) 21632.57ms
+29.03.2021 03:07:31 PM : {'filename': '/uploads/o9iDQz3hvq.zip'}
+29.03.2021 03:07:31 PM : Processing /uploads/o9iDQz3hvq.zip
+29.03.2021 03:08:03 PM : Importing all existing motec data.
+29.03.2021 03:08:03 PM : Read 4 motec files.
+29.03.2021 03:08:03 PM : Fetched 4 records.
+29.03.2021 03:08:03 PM : Inserted 0 new records.
+29.03.2021 03:08:03 PM : 200 POST /process_zip (172.23.0.4) 32497.48ms
+29.03.2021 03:08:42 PM : {'filename': '/uploads/hU30Q4V7eI.zip'}
+29.03.2021 03:08:42 PM : Processing /uploads/hU30Q4V7eI.zip
+29.03.2021 03:09:06 PM : Importing all existing motec data.
+29.03.2021 03:09:06 PM : Read 4 motec files.
+29.03.2021 03:09:06 PM : Fetched 4 records.
+29.03.2021 03:09:06 PM : Inserted 0 new records.
+29.03.2021 03:09:06 PM : 200 POST /process_zip (172.23.0.4) 24104.28ms
+29.03.2021 03:09:39 PM : {'filename': '/uploads/UqOvroRWYT.zip'}
+29.03.2021 03:09:39 PM : Processing /uploads/UqOvroRWYT.zip
+29.03.2021 03:09:59 PM : Importing all existing motec data.
+29.03.2021 03:09:59 PM : Read 4 motec files.
+29.03.2021 03:09:59 PM : Fetched 4 records.
+29.03.2021 03:09:59 PM : Inserted 0 new records.
+29.03.2021 03:09:59 PM : 200 POST /process_zip (172.23.0.4) 20022.58ms
+29.03.2021 03:10:38 PM : {'filename': '/uploads/Firn4zqebP.zip'}
+29.03.2021 03:10:38 PM : Processing /uploads/Firn4zqebP.zip
+29.03.2021 03:11:03 PM : Importing all existing motec data.
+29.03.2021 03:11:03 PM : Read 4 motec files.
+29.03.2021 03:11:03 PM : Fetched 4 records.
+29.03.2021 03:11:03 PM : Inserted 0 new records.
+29.03.2021 03:11:03 PM : 200 POST /process_zip (172.23.0.4) 25906.99ms
+29.03.2021 04:21:07 PM : {'filename': '/uploads/bOGgox0RTo.zip'}
+29.03.2021 04:21:07 PM : Processing /uploads/bOGgox0RTo.zip
+29.03.2021 04:21:26 PM : Importing all existing motec data.
+29.03.2021 04:21:26 PM : Read 4 motec files.
+29.03.2021 04:21:26 PM : Fetched 0 records.
+29.03.2021 04:21:26 PM : Inserted 4 new records.
+29.03.2021 04:21:26 PM : 200 POST /process_zip (172.23.0.4) 18335.42ms
+29.03.2021 04:31:39 PM : {'filename': '/uploads/6JpDXzRB9d.zip'}
+29.03.2021 04:31:39 PM : Processing /uploads/6JpDXzRB9d.zip
+29.03.2021 04:31:57 PM : Importing all existing motec data.
+29.03.2021 04:31:57 PM : Read 4 motec files.
+29.03.2021 04:31:57 PM : Fetched 0 records.
+29.03.2021 04:31:57 PM : Inserted 4 new records.
+29.03.2021 04:31:57 PM : 200 POST /process_zip (172.23.0.4) 18162.64ms
+30.03.2021 12:05:47 PM : {'filename': '/uploads/8esAePLjWk.zip'}
+30.03.2021 12:05:47 PM : Processing /uploads/8esAePLjWk.zip
+30.03.2021 12:06:10 PM : Importing all existing motec data.
+30.03.2021 12:06:10 PM : Read 4 motec files.
+30.03.2021 12:06:10 PM : Fetched 4 records.
+30.03.2021 12:06:10 PM : Inserted 0 new records.
+30.03.2021 12:06:10 PM : 200 POST /process_zip (172.23.0.4) 23528.77ms
+30.03.2021 12:14:57 PM : {'filename': '/uploads/ssVDifpi0H.zip'}
+30.03.2021 12:14:57 PM : Processing /uploads/ssVDifpi0H.zip
+30.03.2021 12:14:59 PM : Importing all existing motec data.
+30.03.2021 12:14:59 PM : Read 4 motec files.
+30.03.2021 12:14:59 PM : Fetched 4 records.
+30.03.2021 12:14:59 PM : Inserted 0 new records.
+30.03.2021 12:14:59 PM : 200 POST /process_zip (172.23.0.4) 2132.34ms
+30.03.2021 12:16:35 PM : Importing all existing motec data.
+30.03.2021 12:16:35 PM : Read 4 motec files.
+30.03.2021 12:16:35 PM : Fetched 4 records.
+30.03.2021 12:16:35 PM : Inserted 0 new records.
+30.03.2021 12:16:35 PM : Listening on 0.0.0.0:1337..
+30.03.2021 12:18:04 PM : Importing all existing motec data.
+30.03.2021 12:18:04 PM : Read 4 motec files.
+30.03.2021 12:18:04 PM : Fetched 4 records.
+30.03.2021 12:18:04 PM : Inserted 0 new records.
+30.03.2021 12:18:04 PM : Listening on 0.0.0.0:1337..
+30.03.2021 12:19:39 PM : {'filename': '/uploads/jqXcbJkDRB.zip'}
+30.03.2021 12:19:39 PM : Processing /uploads/jqXcbJkDRB.zip
+30.03.2021 12:19:43 PM : Importing all existing motec data.
+30.03.2021 12:19:43 PM : Read 0 motec files.
+30.03.2021 12:19:44 PM : Fetched 0 records.
+30.03.2021 12:19:44 PM : Inserted 0 new records.
+30.03.2021 12:19:49 PM : 200 POST /process_zip (172.24.0.4) 9400.19ms
+31.03.2021 03:38:17 PM : Importing all existing motec data.
+31.03.2021 03:38:17 PM : Read 0 motec files.
+31.03.2021 03:38:17 PM : Fetched 0 records.
+31.03.2021 03:38:17 PM : Inserted 0 new records.
+31.03.2021 03:38:17 PM : Listening on 0.0.0.0:1337..
+31.03.2021 03:38:32 PM : {'filename': '/uploads/zUozlyTTRK.zip'}
+31.03.2021 03:38:32 PM : Processing /uploads/zUozlyTTRK.zip
+31.03.2021 03:38:34 PM : /tmp/tmpvi1ckjwg
+31.03.2021 03:38:34 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 03:38:34 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 03:38:34 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 03:38:34 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 03:38:34 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 03:38:34 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 03:38:34 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 03:38:34 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 03:38:34 PM : Matching names: 4
+31.03.2021 03:38:34 PM : Files to move: 4
+31.03.2021 03:38:34 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 03:38:51 PM : Reached returning, report: 
+31.03.2021 03:38:51 PM : Importing all existing motec data.
+31.03.2021 03:38:52 PM : Read 4 motec files.
+31.03.2021 03:38:52 PM : Fetched 0 records.
+31.03.2021 03:38:52 PM : Inserted 4 new records.
+31.03.2021 03:38:52 PM : 200 POST /process_zip (172.20.0.4) 19351.75ms
+31.03.2021 03:43:53 PM : {'filename': '/uploads/3YJ6ETAWYw.zip'}
+31.03.2021 03:43:53 PM : Processing /uploads/3YJ6ETAWYw.zip
+31.03.2021 03:43:54 PM : /tmp/tmp_ncolxwt
+31.03.2021 03:43:54 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 03:43:54 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 03:43:54 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 03:43:54 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 03:43:54 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 03:43:54 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 03:43:54 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 03:43:54 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 03:43:54 PM : Matching names: 4
+31.03.2021 03:43:54 PM : Files to move: 4
+31.03.2021 03:43:54 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 03:44:09 PM : Reached returning, report: 
+31.03.2021 03:44:09 PM : Importing all existing motec data.
+31.03.2021 03:44:09 PM : Read 4 motec files.
+31.03.2021 03:44:09 PM : Fetched 0 records.
+31.03.2021 03:44:09 PM : Inserted 4 new records.
+31.03.2021 03:44:10 PM : 200 POST /process_zip (172.20.0.4) 16503.95ms
+31.03.2021 03:53:17 PM : {'filename': '/uploads/1sf5aPxIJS.zip'}
+31.03.2021 03:53:17 PM : Processing /uploads/1sf5aPxIJS.zip
+31.03.2021 03:53:18 PM : /tmp/tmp_rbf3n63
+31.03.2021 03:53:18 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 03:53:18 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 03:53:18 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 03:53:18 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 03:53:18 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 03:53:18 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 03:53:18 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 03:53:18 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 03:53:18 PM : Matching names: 4
+31.03.2021 03:53:18 PM : Files to move: 4
+31.03.2021 03:53:18 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 03:53:36 PM : Reached returning, report: 
+31.03.2021 03:53:36 PM : Importing all existing motec data.
+31.03.2021 03:53:36 PM : Read 4 motec files.
+31.03.2021 03:53:36 PM : Fetched 0 records.
+31.03.2021 03:53:36 PM : Inserted 4 new records.
+31.03.2021 03:53:36 PM : 200 POST /process_zip (172.20.0.4) 18719.75ms
+31.03.2021 03:56:56 PM : {'filename': '/uploads/RegVURGOOM.zip'}
+31.03.2021 03:56:56 PM : Processing /uploads/RegVURGOOM.zip
+31.03.2021 03:56:57 PM : /tmp/tmp0rqabkru
+31.03.2021 03:56:57 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 03:56:57 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 03:56:57 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 03:56:57 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 03:56:57 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 03:56:57 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 03:56:57 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 03:56:57 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 03:56:57 PM : Matching names: 4
+31.03.2021 03:56:57 PM : Files to move: 4
+31.03.2021 03:56:57 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 03:57:14 PM : Reached returning, report: 
+31.03.2021 03:57:14 PM : Importing all existing motec data.
+31.03.2021 03:57:14 PM : Read 4 motec files.
+31.03.2021 03:57:14 PM : Fetched 0 records.
+31.03.2021 03:57:14 PM : Inserted 4 new records.
+31.03.2021 03:57:14 PM : 200 POST /process_zip (172.20.0.4) 18084.01ms
+31.03.2021 04:00:27 PM : {'filename': '/uploads/r2NaJ8Evwe.zip'}
+31.03.2021 04:00:27 PM : Processing /uploads/r2NaJ8Evwe.zip
+31.03.2021 04:00:28 PM : /tmp/tmpp0piqksb
+31.03.2021 04:00:28 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 04:00:28 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 04:00:28 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 04:00:28 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 04:00:28 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 04:00:28 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 04:00:28 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 04:00:28 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 04:00:28 PM : Matching names: 4
+31.03.2021 04:00:28 PM : Files to move: 4
+31.03.2021 04:00:28 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 04:00:47 PM : Reached returning, report: 
+31.03.2021 04:00:47 PM : Importing all existing motec data.
+31.03.2021 04:00:47 PM : Read 4 motec files.
+31.03.2021 04:00:47 PM : Fetched 0 records.
+31.03.2021 04:00:47 PM : Inserted 4 new records.
+31.03.2021 04:00:47 PM : 200 POST /process_zip (172.20.0.4) 20027.20ms
+31.03.2021 04:15:56 PM : {'filename': '/uploads/snLMWwaREo.zip'}
+31.03.2021 04:15:56 PM : Processing /uploads/snLMWwaREo.zip
+31.03.2021 04:15:57 PM : /tmp/tmpk106uk7t
+31.03.2021 04:15:57 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 04:15:57 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 04:15:57 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 04:15:57 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 04:15:57 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 04:15:57 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 04:15:57 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 04:15:57 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 04:15:57 PM : Matching names: 4
+31.03.2021 04:15:57 PM : Files to move: 4
+31.03.2021 04:15:57 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 04:16:12 PM : Reached returning, report: 
+31.03.2021 04:16:12 PM : Importing all existing motec data.
+31.03.2021 04:16:12 PM : Read 4 motec files.
+31.03.2021 04:16:12 PM : Fetched 0 records.
+31.03.2021 04:16:12 PM : Inserted 4 new records.
+31.03.2021 04:16:12 PM : 200 POST /process_zip (172.20.0.4) 16211.71ms
+31.03.2021 04:17:45 PM : {'filename': '/uploads/DyugJdk9X0.zip'}
+31.03.2021 04:17:45 PM : Processing /uploads/DyugJdk9X0.zip
+31.03.2021 04:17:46 PM : /tmp/tmpfvbi40q9
+31.03.2021 04:17:46 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 04:17:46 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 04:17:46 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 04:17:46 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 04:17:46 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 04:17:46 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 04:17:46 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 04:17:46 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 04:17:46 PM : Matching names: 4
+31.03.2021 04:17:46 PM : Files to move: 4
+31.03.2021 04:17:46 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 04:18:03 PM : Reached returning, report: 
+31.03.2021 04:18:03 PM : Importing all existing motec data.
+31.03.2021 04:18:04 PM : Read 4 motec files.
+31.03.2021 04:18:04 PM : Fetched 0 records.
+31.03.2021 04:18:04 PM : Inserted 4 new records.
+31.03.2021 04:18:04 PM : 200 POST /process_zip (172.20.0.4) 18704.30ms
+31.03.2021 04:21:29 PM : {'filename': '/uploads/n2mUcQuQy3.zip'}
+31.03.2021 04:21:29 PM : Processing /uploads/n2mUcQuQy3.zip
+31.03.2021 04:21:30 PM : /tmp/tmppmbey2q6
+31.03.2021 04:21:30 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 04:21:30 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 04:21:30 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 04:21:30 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 04:21:30 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 04:21:30 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 04:21:30 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 04:21:30 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 04:21:30 PM : Matching names: 4
+31.03.2021 04:21:30 PM : Files to move: 4
+31.03.2021 04:21:30 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 04:21:45 PM : Reached returning, report: 
+31.03.2021 04:21:45 PM : Importing all existing motec data.
+31.03.2021 04:21:45 PM : Read 4 motec files.
+31.03.2021 04:21:46 PM : Fetched 0 records.
+31.03.2021 04:21:46 PM : Inserted 4 new records.
+31.03.2021 04:21:46 PM : 200 POST /process_zip (172.20.0.4) 16978.29ms
+31.03.2021 04:29:01 PM : {'filename': '/uploads/GlNT0cuxGH.zip'}
+31.03.2021 04:29:01 PM : Processing /uploads/GlNT0cuxGH.zip
+31.03.2021 04:29:02 PM : /tmp/tmp77iql9pz
+31.03.2021 04:29:02 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 04:29:02 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 04:29:02 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 04:29:02 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 04:29:02 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 04:29:02 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 04:29:02 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 04:29:02 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 04:29:02 PM : Matching names: 4
+31.03.2021 04:29:02 PM : Files to move: 4
+31.03.2021 04:29:02 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 04:29:17 PM : Reached returning, report: 
+31.03.2021 04:29:17 PM : Importing all existing motec data.
+31.03.2021 04:29:17 PM : Read 4 motec files.
+31.03.2021 04:29:17 PM : Fetched 0 records.
+31.03.2021 04:29:17 PM : Inserted 4 new records.
+31.03.2021 04:29:17 PM : 200 POST /process_zip (172.20.0.4) 16225.49ms
+31.03.2021 04:36:05 PM : {'filename': '/uploads/o9ocn1WY3d.zip'}
+31.03.2021 04:36:05 PM : Processing /uploads/o9ocn1WY3d.zip
+31.03.2021 04:36:06 PM : /tmp/tmprmktk0z7
+31.03.2021 04:36:06 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 04:36:06 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 04:36:06 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 04:36:06 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 04:36:06 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 04:36:06 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 04:36:06 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 04:36:06 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 04:36:06 PM : Matching names: 4
+31.03.2021 04:36:06 PM : Files to move: 4
+31.03.2021 04:36:06 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 04:36:24 PM : Reached returning, report: 
+31.03.2021 04:36:24 PM : Importing all existing motec data.
+31.03.2021 04:36:24 PM : Read 4 motec files.
+31.03.2021 04:36:24 PM : Fetched 0 records.
+31.03.2021 04:36:24 PM : Inserted 4 new records.
+31.03.2021 04:36:24 PM : 200 POST /process_zip (172.20.0.4) 19000.80ms
+31.03.2021 04:38:43 PM : {'filename': '/uploads/lKaZvQfD6p.zip'}
+31.03.2021 04:38:43 PM : Processing /uploads/lKaZvQfD6p.zip
+31.03.2021 04:38:44 PM : /tmp/tmpcf928vs_
+31.03.2021 04:38:44 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 04:38:44 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 04:38:44 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 04:38:44 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 04:38:44 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 04:38:44 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 04:38:44 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 04:38:44 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 04:38:44 PM : Matching names: 4
+31.03.2021 04:38:44 PM : Files to move: 4
+31.03.2021 04:38:44 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 04:39:00 PM : Reached returning, report: 
+31.03.2021 04:39:00 PM : Importing all existing motec data.
+31.03.2021 04:39:00 PM : Read 4 motec files.
+31.03.2021 04:39:00 PM : Fetched 0 records.
+31.03.2021 04:39:00 PM : Inserted 4 new records.
+31.03.2021 04:39:00 PM : 200 POST /process_zip (172.20.0.4) 17484.83ms
+31.03.2021 04:41:30 PM : {'filename': '/uploads/bB7doMFMEI.zip'}
+31.03.2021 04:41:30 PM : Processing /uploads/bB7doMFMEI.zip
+31.03.2021 04:41:32 PM : /tmp/tmpe3oq9gmk
+31.03.2021 04:41:32 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 04:41:32 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 04:41:32 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 04:41:32 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 04:41:32 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 04:41:32 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 04:41:32 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 04:41:32 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 04:41:32 PM : Matching names: 4
+31.03.2021 04:41:32 PM : Files to move: 4
+31.03.2021 04:41:32 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 04:41:47 PM : Reached returning, report: 
+31.03.2021 04:41:47 PM : Importing all existing motec data.
+31.03.2021 04:41:47 PM : Read 4 motec files.
+31.03.2021 04:41:47 PM : Fetched 4 records.
+31.03.2021 04:41:47 PM : Inserted 0 new records.
+31.03.2021 04:41:47 PM : 200 POST /process_zip (172.20.0.4) 17042.18ms
+31.03.2021 04:42:25 PM : {'filename': '/uploads/qVdWHBUpaK.zip'}
+31.03.2021 04:42:25 PM : Processing /uploads/qVdWHBUpaK.zip
+31.03.2021 04:42:27 PM : /tmp/tmpsff1kd23
+31.03.2021 04:42:27 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 04:42:27 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 04:42:27 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 04:42:27 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 04:42:27 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 04:42:27 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 04:42:27 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 04:42:27 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 04:42:27 PM : Matching names: 4
+31.03.2021 04:42:27 PM : Files to move: 4
+31.03.2021 04:42:27 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 04:42:43 PM : Reached returning, report: 
+31.03.2021 04:42:43 PM : Importing all existing motec data.
+31.03.2021 04:42:43 PM : Read 4 motec files.
+31.03.2021 04:42:43 PM : Fetched 4 records.
+31.03.2021 04:42:43 PM : Inserted 0 new records.
+31.03.2021 04:42:43 PM : 200 POST /process_zip (172.20.0.4) 17241.24ms
+31.03.2021 04:44:38 PM : Importing all existing motec data.
+31.03.2021 04:44:38 PM : Read 0 motec files.
+31.03.2021 04:44:38 PM : Fetched 0 records.
+31.03.2021 04:44:38 PM : Inserted 0 new records.
+31.03.2021 04:44:39 PM : Listening on 0.0.0.0:1337..
+31.03.2021 04:45:05 PM : {'filename': '/uploads/cFGqH0LiSe.zip'}
+31.03.2021 04:45:05 PM : Processing /uploads/cFGqH0LiSe.zip
+31.03.2021 04:45:06 PM : /tmp/tmpacup6_t4
+31.03.2021 04:45:06 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 04:45:06 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 04:45:06 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 04:45:06 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 04:45:06 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 04:45:06 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 04:45:06 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 04:45:06 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 04:45:06 PM : Matching names: 4
+31.03.2021 04:45:06 PM : Files to move: 4
+31.03.2021 04:45:06 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 04:45:24 PM : Reached returning, report: 
+31.03.2021 04:45:24 PM : Importing all existing motec data.
+31.03.2021 04:45:24 PM : Read 4 motec files.
+31.03.2021 04:45:24 PM : Fetched 0 records.
+31.03.2021 04:45:24 PM : Inserted 4 new records.
+31.03.2021 04:45:24 PM : 200 POST /process_zip (172.21.0.4) 18551.82ms
+31.03.2021 04:47:28 PM : Importing all existing motec data.
+31.03.2021 04:47:28 PM : Read 0 motec files.
+31.03.2021 04:47:28 PM : Fetched 0 records.
+31.03.2021 04:47:28 PM : Inserted 0 new records.
+31.03.2021 04:47:28 PM : Listening on 0.0.0.0:1337..
+31.03.2021 04:47:45 PM : {'filename': '/uploads/t6G2U4mFmT.zip'}
+31.03.2021 04:47:45 PM : Processing /uploads/t6G2U4mFmT.zip
+31.03.2021 04:47:46 PM : /tmp/tmpvw82jwfo
+31.03.2021 04:47:46 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 04:47:46 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 04:47:46 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 04:47:46 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 04:47:46 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 04:47:46 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 04:47:46 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 04:47:46 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 04:47:46 PM : Matching names: 4
+31.03.2021 04:47:46 PM : Files to move: 4
+31.03.2021 04:47:46 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 04:48:01 PM : Reached returning, report: 
+31.03.2021 04:48:01 PM : Importing all existing motec data.
+31.03.2021 04:48:01 PM : Read 4 motec files.
+31.03.2021 04:48:01 PM : Fetched 0 records.
+31.03.2021 04:48:01 PM : Inserted 4 new records.
+31.03.2021 04:48:01 PM : Exception on /process_zip [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python3.8/site-packages/connexion/decorators/decorator.py", line 48, in wrapper
+    response = function(request)
+  File "/usr/local/lib/python3.8/site-packages/connexion/decorators/uri_parsing.py", line 144, in wrapper
+    response = function(request)
+  File "/usr/local/lib/python3.8/site-packages/connexion/decorators/validation.py", line 184, in wrapper
+    response = function(request)
+  File "/usr/local/lib/python3.8/site-packages/connexion/decorators/parameter.py", line 121, in wrapper
+    return function(**kwargs)
+  File "/app/dataloader.py", line 144, in process_uploaded_zip
+    summary = f'{s.join(map(str, names_to_copy))} - Successfully imported {len(names_to_copy)} files.'
+NameError: name 's' is not defined
+31.03.2021 04:48:01 PM : 500 POST /process_zip (172.22.0.4) 15881.59ms
+31.03.2021 04:50:35 PM : Importing all existing motec data.
+31.03.2021 04:50:35 PM : Read 0 motec files.
+31.03.2021 04:50:35 PM : Fetched 0 records.
+31.03.2021 04:50:35 PM : Inserted 0 new records.
+31.03.2021 04:50:35 PM : Listening on 0.0.0.0:1337..
+31.03.2021 04:50:49 PM : {'filename': '/uploads/22IvCtntST.zip'}
+31.03.2021 04:50:49 PM : Processing /uploads/22IvCtntST.zip
+31.03.2021 04:50:50 PM : /tmp/tmp3pgsd666
+31.03.2021 04:50:51 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 04:50:51 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 04:50:51 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 04:50:51 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 04:50:51 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 04:50:51 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 04:50:51 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 04:50:51 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 04:50:51 PM : Matching names: 4
+31.03.2021 04:50:51 PM : Files to move: 4
+31.03.2021 04:50:51 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 04:51:05 PM : Reached returning, report: 
+31.03.2021 04:51:05 PM : Importing all existing motec data.
+31.03.2021 04:51:05 PM : Read 4 motec files.
+31.03.2021 04:51:05 PM : Fetched 0 records.
+31.03.2021 04:51:05 PM : Inserted 4 new records.
+31.03.2021 04:51:05 PM : 200 POST /process_zip (172.23.0.4) 16318.71ms
+31.03.2021 04:56:27 PM : Importing all existing motec data.
+31.03.2021 04:56:27 PM : Read 0 motec files.
+31.03.2021 04:56:27 PM : Fetched 0 records.
+31.03.2021 04:56:27 PM : Inserted 0 new records.
+31.03.2021 04:56:27 PM : Listening on 0.0.0.0:1337..
+31.03.2021 04:56:35 PM : {'filename': '/uploads/IP8jgIWcKs.zip'}
+31.03.2021 04:56:35 PM : Processing /uploads/IP8jgIWcKs.zip
+31.03.2021 04:56:36 PM : /tmp/tmp06g75b3a
+31.03.2021 04:56:36 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 04:56:36 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 04:56:36 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 04:56:36 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 04:56:36 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 04:56:36 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 04:56:36 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 04:56:36 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 04:56:36 PM : Matching names: 4
+31.03.2021 04:56:36 PM : Files to move: 4
+31.03.2021 04:56:36 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 04:56:51 PM : Reached returning, report: 
+31.03.2021 04:56:51 PM : Importing all existing motec data.
+31.03.2021 04:56:51 PM : Read 4 motec files.
+31.03.2021 04:56:52 PM : Fetched 0 records.
+31.03.2021 04:56:52 PM : Inserted 4 new records.
+31.03.2021 04:56:52 PM : 200 POST /process_zip (172.24.0.4) 16481.91ms
+31.03.2021 04:59:05 PM : Importing all existing motec data.
+31.03.2021 04:59:05 PM : Read 0 motec files.
+31.03.2021 04:59:05 PM : Fetched 0 records.
+31.03.2021 04:59:05 PM : Inserted 0 new records.
+31.03.2021 04:59:05 PM : Listening on 0.0.0.0:1337..
+31.03.2021 05:00:17 PM : {'filename': '/uploads/WkstEp8bn6.zip'}
+31.03.2021 05:00:17 PM : Processing /uploads/WkstEp8bn6.zip
+31.03.2021 05:00:19 PM : /tmp/tmp2o7m8zj1
+31.03.2021 05:00:19 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 05:00:19 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 05:00:19 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 05:00:19 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 05:00:19 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 05:00:19 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 05:00:19 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 05:00:19 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 05:00:19 PM : Matching names: 4
+31.03.2021 05:00:19 PM : Files to move: 4
+31.03.2021 05:00:19 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 05:00:45 PM : Reached returning, report: 
+31.03.2021 05:00:45 PM : Importing all existing motec data.
+31.03.2021 05:00:45 PM : Read 4 motec files.
+31.03.2021 05:00:45 PM : Fetched 0 records.
+31.03.2021 05:00:45 PM : Inserted 4 new records.
+31.03.2021 05:00:45 PM : 200 POST /process_zip (172.25.0.4) 27794.64ms
+31.03.2021 05:01:22 PM : {'filename': '/uploads/bnzxF68s91.zip'}
+31.03.2021 05:01:22 PM : Processing /uploads/bnzxF68s91.zip
+31.03.2021 05:01:23 PM : /tmp/tmpvenlhjgy
+31.03.2021 05:01:23 PM : __MACOSX
+31.03.2021 05:01:23 PM : Dir!
+31.03.2021 05:01:23 PM : /tmp/tmpvenlhjgy/__MACOSX
+31.03.2021 05:01:23 PM : ._Imola-amr_v8_vantage_gt3-12-2021.03.20-20.08.37.ld
+31.03.2021 05:01:23 PM : File!
+31.03.2021 05:01:23 PM : ._Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 05:01:23 PM : File!
+31.03.2021 05:01:23 PM : ._Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 05:01:23 PM : File!
+31.03.2021 05:01:23 PM : ._Imola-amr_v8_vantage_gt3-12-2021.03.20-20.08.37.ldx
+31.03.2021 05:01:23 PM : File!
+31.03.2021 05:01:23 PM : ._Imola-amr_v8_vantage_gt3-12-2021.03.20-20.37.17.ld
+31.03.2021 05:01:23 PM : File!
+31.03.2021 05:01:23 PM : ._Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 05:01:23 PM : File!
+31.03.2021 05:01:23 PM : ._Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 05:01:23 PM : File!
+31.03.2021 05:01:23 PM : ._Imola-amr_v8_vantage_gt3-12-2021.03.20-20.37.17.ldx
+31.03.2021 05:01:23 PM : File!
+31.03.2021 05:01:23 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 05:01:23 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-20.37.17.ld
+31.03.2021 05:01:23 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-20.08.37.ldx
+31.03.2021 05:01:23 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 05:01:23 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 05:01:23 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-20.37.17.ldx
+31.03.2021 05:01:23 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 05:01:23 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-20.08.37.ld
+31.03.2021 05:01:23 PM : Matching names: 8
+31.03.2021 05:01:23 PM : Files to move: 8
+31.03.2021 05:01:23 PM : ['._Imola-amr_v8_vantage_gt3-12-2021.03.20-20.08.37.ld', '__MACOSX', '._Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-20.37.17.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-20.08.37.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', '._Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', '._Imola-amr_v8_vantage_gt3-12-2021.03.20-20.08.37.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', '._Imola-amr_v8_vantage_gt3-12-2021.03.20-20.37.17.ld', '._Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-20.37.17.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-20.08.37.ld', '._Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', '._Imola-amr_v8_vantage_gt3-12-2021.03.20-20.37.17.ldx']
+31.03.2021 05:01:42 PM : Reached returning, report: 
+31.03.2021 05:01:42 PM : Importing all existing motec data.
+31.03.2021 05:01:42 PM : Read 6 motec files.
+31.03.2021 05:01:42 PM : Fetched 4 records.
+31.03.2021 05:01:42 PM : Inserted 2 new records.
+31.03.2021 05:01:42 PM : 200 POST /process_zip (172.25.0.4) 19597.02ms
+31.03.2021 05:30:06 PM : {'filename': '/uploads/dLmhgnEwyZ.zip'}
+31.03.2021 05:30:07 PM : Processing /uploads/dLmhgnEwyZ.zip
+31.03.2021 05:30:09 PM : /tmp/tmp1ki2s_o9
+31.03.2021 05:30:09 PM : Spa - 488Evo MOTEC
+31.03.2021 05:30:09 PM : Dir!
+31.03.2021 05:30:09 PM : /tmp/tmp1ki2s_o9/Spa - 488Evo MOTEC
+31.03.2021 05:30:09 PM : SPA-FERRARI-2_16_5 32gradi.ld
+31.03.2021 05:30:09 PM : File!
+31.03.2021 05:30:09 PM : SPA-FERRARI-2_16_5 32gradi.ldx
+31.03.2021 05:30:09 PM : File!
+31.03.2021 05:30:09 PM : Matching names: 1
+31.03.2021 05:30:09 PM : Files to move: 0
+31.03.2021 05:30:09 PM : ['SPA-FERRARI-2_16_5 32gradi.ld', 'Spa - 488Evo MOTEC', 'SPA-FERRARI-2_16_5 32gradi.ldx']
+31.03.2021 05:30:09 PM : Reached returning, report: Invalid filename: SPA-FERRARI-2_16_5 32gradi<br>
+31.03.2021 05:30:09 PM : Importing all existing motec data.
+31.03.2021 05:30:09 PM : Read 6 motec files.
+31.03.2021 05:30:09 PM : Fetched 6 records.
+31.03.2021 05:30:09 PM : Inserted 0 new records.
+31.03.2021 05:30:09 PM : 200 POST /process_zip (172.25.0.4) 2753.13ms
+31.03.2021 05:30:38 PM : {'filename': '/uploads/oTo4SRohhO.zip'}
+31.03.2021 05:30:38 PM : Processing /uploads/oTo4SRohhO.zip
+31.03.2021 05:30:40 PM : /tmp/tmp5t9f0nme
+31.03.2021 05:30:40 PM : Imola-ferrari_488_gt3_evo-11-2021.03.13-19.57.13.ldx
+31.03.2021 05:30:40 PM : Imola-ferrari_488_gt3_evo-11-2021.03.13-19.57.13.ld
+31.03.2021 05:30:40 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-21.59.32.ldx
+31.03.2021 05:30:40 PM : __MACOSX
+31.03.2021 05:30:40 PM : Dir!
+31.03.2021 05:30:40 PM : /tmp/tmp5t9f0nme/__MACOSX
+31.03.2021 05:30:40 PM : ._Imola-ferrari_488_gt3_evo-11-2021.03.13-19.57.13.ldx
+31.03.2021 05:30:40 PM : File!
+31.03.2021 05:30:40 PM : ._Imola-ferrari_488_gt3_evo-11-2021.03.13-19.57.13.ld
+31.03.2021 05:30:40 PM : File!
+31.03.2021 05:30:40 PM : ._Imola-ferrari_488_gt3_evo-11-2021.03.13-19.54.49.ldx
+31.03.2021 05:30:40 PM : File!
+31.03.2021 05:30:40 PM : ._Imola-amr_v8_vantage_gt3-12-2021.03.20-22.00.03.ld
+31.03.2021 05:30:40 PM : File!
+31.03.2021 05:30:40 PM : ._Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ldx
+31.03.2021 05:30:40 PM : File!
+31.03.2021 05:30:40 PM : ._Imola-ferrari_488_gt3_evo-11-2021.03.13-19.54.49.ld
+31.03.2021 05:30:40 PM : File!
+31.03.2021 05:30:40 PM : ._Imola-amr_v8_vantage_gt3-12-2021.03.20-21.59.32.ld
+31.03.2021 05:30:40 PM : File!
+31.03.2021 05:30:40 PM : ._Imola-amr_v8_vantage_gt3-12-2021.03.20-22.00.03.ldx
+31.03.2021 05:30:40 PM : File!
+31.03.2021 05:30:40 PM : ._Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ld
+31.03.2021 05:30:40 PM : File!
+31.03.2021 05:30:40 PM : ._Imola-amr_v8_vantage_gt3-12-2021.03.20-21.59.32.ldx
+31.03.2021 05:30:40 PM : File!
+31.03.2021 05:30:40 PM : Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ldx
+31.03.2021 05:30:40 PM : Imola-ferrari_488_gt3_evo-11-2021.03.13-19.54.49.ld
+31.03.2021 05:30:40 PM : Imola-ferrari_488_gt3_evo-11-2021.03.13-19.54.49.ldx
+31.03.2021 05:30:40 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-22.00.03.ldx
+31.03.2021 05:30:40 PM : Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ld
+31.03.2021 05:30:40 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-22.00.03.ld
+31.03.2021 05:30:40 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-21.59.32.ld
+31.03.2021 05:30:40 PM : Matching names: 10
+31.03.2021 05:30:40 PM : Files to move: 10
+31.03.2021 05:30:40 PM : ['Imola-ferrari_488_gt3_evo-11-2021.03.13-19.57.13.ldx', 'Imola-ferrari_488_gt3_evo-11-2021.03.13-19.57.13.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-21.59.32.ldx', '__MACOSX', '._Imola-ferrari_488_gt3_evo-11-2021.03.13-19.57.13.ldx', '._Imola-ferrari_488_gt3_evo-11-2021.03.13-19.57.13.ld', 'Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ldx', '._Imola-ferrari_488_gt3_evo-11-2021.03.13-19.54.49.ldx', '._Imola-amr_v8_vantage_gt3-12-2021.03.20-22.00.03.ld', 'Imola-ferrari_488_gt3_evo-11-2021.03.13-19.54.49.ld', 'Imola-ferrari_488_gt3_evo-11-2021.03.13-19.54.49.ldx', '._Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ldx', '._Imola-ferrari_488_gt3_evo-11-2021.03.13-19.54.49.ld', '._Imola-amr_v8_vantage_gt3-12-2021.03.20-21.59.32.ld', '._Imola-amr_v8_vantage_gt3-12-2021.03.20-22.00.03.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-22.00.03.ldx', 'Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-22.00.03.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-21.59.32.ld', '._Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ld', '._Imola-amr_v8_vantage_gt3-12-2021.03.20-21.59.32.ldx']
+31.03.2021 05:31:10 PM : Reached returning, report: 
+31.03.2021 05:31:10 PM : Importing all existing motec data.
+31.03.2021 05:31:10 PM : Read 11 motec files.
+31.03.2021 05:31:10 PM : Fetched 6 records.
+31.03.2021 05:31:10 PM : Inserted 5 new records.
+31.03.2021 05:31:10 PM : 200 POST /process_zip (172.25.0.4) 32160.15ms
+31.03.2021 05:31:48 PM : {'filename': '/uploads/ZkF6XUfwLd.zip'}
+31.03.2021 05:31:48 PM : Processing /uploads/ZkF6XUfwLd.zip
+31.03.2021 05:31:49 PM : /tmp/tmpjay2lwth
+31.03.2021 05:31:49 PM : __MACOSX
+31.03.2021 05:31:49 PM : Dir!
+31.03.2021 05:31:49 PM : /tmp/tmpjay2lwth/__MACOSX
+31.03.2021 05:31:49 PM : ._Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.50.43.ld
+31.03.2021 05:31:49 PM : File!
+31.03.2021 05:31:49 PM : ._Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ldx
+31.03.2021 05:31:49 PM : File!
+31.03.2021 05:31:49 PM : ._Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.50.43.ldx
+31.03.2021 05:31:49 PM : File!
+31.03.2021 05:31:49 PM : ._Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ld
+31.03.2021 05:31:49 PM : File!
+31.03.2021 05:31:49 PM : Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ldx
+31.03.2021 05:31:49 PM : Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.50.43.ld
+31.03.2021 05:31:49 PM : Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.50.43.ldx
+31.03.2021 05:31:49 PM : Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ld
+31.03.2021 05:31:49 PM : Matching names: 4
+31.03.2021 05:31:49 PM : Files to move: 4
+31.03.2021 05:31:49 PM : ['__MACOSX', 'Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ldx', '._Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.50.43.ld', '._Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ldx', 'Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.50.43.ld', '._Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.50.43.ldx', 'Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.50.43.ldx', 'Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ld', '._Kyalami-ferrari_488_gt3_evo-12-2021.03.13-18.49.31.ld']
+31.03.2021 05:31:57 PM : Reached returning, report: 
+31.03.2021 05:31:57 PM : Importing all existing motec data.
+31.03.2021 05:31:57 PM : Read 12 motec files.
+31.03.2021 05:31:57 PM : Fetched 11 records.
+31.03.2021 05:31:57 PM : Inserted 1 new records.
+31.03.2021 05:31:57 PM : 200 POST /process_zip (172.25.0.4) 8973.66ms
+31.03.2021 05:48:19 PM : Importing all existing motec data.
+31.03.2021 05:48:19 PM : Read 0 motec files.
+31.03.2021 05:54:36 PM : Importing all existing motec data.
+31.03.2021 05:54:36 PM : Read 0 motec files.
+31.03.2021 05:54:36 PM : Fetched 0 records.
+31.03.2021 05:54:36 PM : Inserted 0 new records.
+31.03.2021 05:54:36 PM : Listening on 0.0.0.0:1337..
+31.03.2021 05:54:38 PM : {'filename': '/uploads/GdXQylHSxJ.zip'}
+31.03.2021 05:54:38 PM : Processing /uploads/GdXQylHSxJ.zip
+31.03.2021 05:54:39 PM : /tmp/tmp4ot_0xeh
+31.03.2021 05:54:39 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+31.03.2021 05:54:39 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+31.03.2021 05:54:39 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+31.03.2021 05:54:39 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+31.03.2021 05:54:39 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+31.03.2021 05:54:39 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+31.03.2021 05:54:39 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+31.03.2021 05:54:39 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+31.03.2021 05:54:39 PM : Matching names: 4
+31.03.2021 05:54:39 PM : Files to move: 4
+31.03.2021 05:54:39 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+31.03.2021 05:54:53 PM : Reached returning, report: 
+31.03.2021 05:54:53 PM : Importing all existing motec data.
+31.03.2021 05:54:53 PM : Read 4 motec files.
+31.03.2021 05:54:53 PM : Fetched 0 records.
+31.03.2021 05:54:53 PM : Inserted 4 new records.
+31.03.2021 05:54:53 PM : 200 POST /process_zip (172.27.0.4) 15495.05ms
