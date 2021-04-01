@@ -53,6 +53,8 @@ Select .zip file to upload:
     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
     </form>
 </div> <!-- div id=donate -->
+
+<p>Use the Download button to retreive the specific ld and ldx in zip format.</p>
 <table id="motecData" class="table is-striped table-bordered" style="width:100%">
     <thead>
       <tr> 
@@ -64,7 +66,6 @@ Select .zip file to upload:
           <td> Best Laptime </td> 
           <td> Best Lap </td>
           <td> Motec Download </td>
-          <td> LDX Download </td>
       </tr>
     </thead>
 
@@ -78,7 +79,6 @@ Select .zip file to upload:
           <td> Best Laptime </td> 
           <td> Best Lap </td>
           <td> Motec Download </td>
-          <td> LDX Download </td>
       </tr>
 </tfoot>
 </table>

@@ -8,16 +8,10 @@ $(document).ready( function () {
                 "targets": 6,
                 "data": "filename",
                 "render": function ( data, type, row, meta ) {
-                              return '<a class="btn btn-info" href="download.php?file='+row[6]+'.ld">Download</a>';
+                              return '<a class="btn btn-info" href="download.php?file='+row[6]+'">Download</a>';
                             }
-          },
-          {
-                "targets": 7,
-                "data": "filename",
-                "render": function ( data, type, row, meta ) {
-                              return '<a class="btn btn-info" href="download.php?file='+row[6]+'.ldx">Download</a>';
-                            }
-          } ]
+          }
+        ]
  });
 // setInterval( function () { table.ajax.reload( refresh, false ); // user paging is not reset on reload
 //                    }, 30000 );
