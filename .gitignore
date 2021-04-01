@@ -3,3 +3,4 @@ motec_data
 var
 docker-compose.yaml
 backend/.dbdata
+frontend/php_info.php
