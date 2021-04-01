@@ -756,3 +756,30 @@ NameError: name 's' is not defined
 31.03.2021 05:54:53 PM : Fetched 0 records.
 31.03.2021 05:54:53 PM : Inserted 4 new records.
 31.03.2021 05:54:53 PM : 200 POST /process_zip (172.27.0.4) 15495.05ms
+01.04.2021 11:34:33 AM : Importing all existing motec data.
+01.04.2021 11:34:33 AM : Read 0 motec files.
+01.04.2021 11:53:46 AM : Importing all existing motec data.
+01.04.2021 11:53:46 AM : Read 0 motec files.
+01.04.2021 11:53:46 AM : Fetched 0 records.
+01.04.2021 11:53:46 AM : Inserted 0 new records.
+01.04.2021 11:53:46 AM : Listening on 0.0.0.0:1337..
+01.04.2021 12:17:25 PM : {'filename': '/uploads/dltYtfZkK2.zip'}
+01.04.2021 12:17:25 PM : Processing /uploads/dltYtfZkK2.zip
+01.04.2021 12:17:26 PM : /tmp/tmphkh_d9ti
+01.04.2021 12:17:26 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx
+01.04.2021 12:17:26 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld
+01.04.2021 12:17:26 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx
+01.04.2021 12:17:26 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld
+01.04.2021 12:17:26 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx
+01.04.2021 12:17:26 PM : Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld
+01.04.2021 12:17:26 PM : Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld
+01.04.2021 12:17:26 PM : Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx
+01.04.2021 12:17:26 PM : Matching names: 4
+01.04.2021 12:17:26 PM : Files to move: 4
+01.04.2021 12:17:26 PM : ['Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ldx', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.15.31.ld', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ldx', 'Spa-mclaren_720s_gt3-0-2021.03.16-20.47.57.ld', 'Imola-amr_v8_vantage_gt3-12-2021.03.20-17.12.15.ld', 'Spa-mclaren_720s_gt3-0-2021.03.14-20.27.39.ldx']
+01.04.2021 12:17:46 PM : Reached returning, report: 
+01.04.2021 12:17:46 PM : Importing all existing motec data.
+01.04.2021 12:17:46 PM : Read 4 motec files.
+01.04.2021 12:17:46 PM : Fetched 0 records.
+01.04.2021 12:17:46 PM : Inserted 4 new records.
+01.04.2021 12:17:46 PM : 200 POST /process_zip (172.20.0.4) 21072.19ms

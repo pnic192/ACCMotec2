@@ -8,7 +8,7 @@ $(document).ready( function () {
                 "targets": 6,
                 "data": "filename",
                 "render": function ( data, type, row, meta ) {
-                              return '<a class="btn btn-info" href="download.php?file='+row[6]+'">Download</a>';
+                              return '<a class="btn btn-info" href="download.php?file='+row[6]+'" title="Get the ZIP of the ld and ldx files for this Combination">Download</a>';
                             }
           }
         ]
